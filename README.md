@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: When I was born, I brought along a major earthquake, so you can say that I landed with a BANG!
 
-![snake animation](https://github.com/<luhadiagarvit>/<luhadiagarvit>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
