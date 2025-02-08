@@ -1,10 +1,9 @@
 ### Hello World!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=5% height=5% alt="Waving hand">
 
 
-- 🔭 I’m currently looking on an internship.
-- 🌱 I’m currently learning to work on cloud computing platforms.
-- 👯 I’m looking to collaborate on real world GenAI projects.
-- 🤔 I’m looking for help with functional processing languages.
+- 🔭 Looking for a full time position.
+- 🌱 Learning to work towards cloud certificatons.
+- 👯 Collaborate with me on real-world GenAI projects.
 - 💬 Ask me about Artificial Intelligence.
 - 📫 How to reach me: HMU on major social media platforms : @luhadiagarvit
 - 😄 Pronouns: He/Him/His
